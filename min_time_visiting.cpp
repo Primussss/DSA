@@ -24,7 +24,7 @@ int main() {
     // Function call
     int result = sol.minTimeToVisitAllPoints(points);
 
-    // Output result
+    // Output result as result
     cout << "Minimum time to visit all points: " << result << endl;
 
     return 0;

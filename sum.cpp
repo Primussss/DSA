@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+// gf
  
 int total(int arr[], int size) {
       int sum =0;

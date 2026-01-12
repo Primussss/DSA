@@ -2,7 +2,7 @@
 #include<climits>
 using namespace std;
 
-/*void print_array(int arr[], int size) {
+/*void print_array(int arr[], int size) { sfdgf
       for(int i = 0; i< size; i++) {
             cout<< arr[i] << " ";
       }
