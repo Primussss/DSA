@@ -1,12 +1,12 @@
 #include<iostream>
 using namespace std;
 
-/*int main(){ file is good
+int main(){ file is good
       string s;
       getline(cin, s);
       cout<<s;
       return 0;
-}*/
+}
 
 //cahr takes less space than string
 
