@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main(){ file is good
+int main(){ file is goo
       string s;
       getline(cin, s);
       cout<<s;
