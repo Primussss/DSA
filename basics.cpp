@@ -7,7 +7,7 @@ int main(){ file is goo
       cout<<s;
       return 0;
 }
-
+//
 //cahr takes less space than string
 
 // int main() {
